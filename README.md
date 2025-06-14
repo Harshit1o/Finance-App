@@ -23,8 +23,8 @@ Personal Finance Sphere is a web application designed to help users manage their
 
 1. Clone the repository:
    ```sh
-   git clone <YOUR_GIT_URL>
-   cd <YOUR_PROJECT_NAME>
+   git clone <THE_GIT_URL>
+   cd <THE_PROJECT_NAME>
    ```
 2. Install dependencies:
    ```sh
